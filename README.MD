@@ -1,4 +1,5 @@
 Hi, I'm Shailendra!
+
 "Open to Opportunities | M.Sc. Computer Science Graduate | Passionate about Python, Web Development, and AI 🚀"
 
 Welcome to my GitHub profile!  
